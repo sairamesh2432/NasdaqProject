@@ -1,3 +1,5 @@
+## Nasdaq Portfolio Generator
+
 This script allows the user to generate a CSV file that contains each of the components
 of the Nasdaq 100 index along with how much to invest in each stock.
 
