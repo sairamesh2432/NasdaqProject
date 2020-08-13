@@ -4,7 +4,7 @@ This script allows the user to generate a CSV file that contains each of the com
 of the Nasdaq 100 index along with how much to invest in each stock.
 
 ## Motivation
-I started this project after finding out that there were no low-cost (below 0.1% expense ratio) index funds that tracked the Nasdaq 100 index. Luckily, it's possible to craft your own index fund with the power of fractional shares, so I started this project to help me automate that process.
+I started this project after finding out that there were no low-cost (below 0.1% expense ratio) index funds that tracked the Nasdaq 100 index. Luckily, it's possible to craft your own index fund with the power of fractional shares, and this project to helps automate that process.
 
 The dollar values apportioned to each stock are based on an average between **equal-weighting** and **cap-weighting** methodologies. Under an equal-weighting system, each stock in the index would receive an equal amount of shares, while under a cap-weighted system, larger companies receive higher weight. 
 
