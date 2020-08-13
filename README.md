@@ -12,6 +12,7 @@ The dollar values apportioned to each stock are based on an average between equa
 This is a command line interface. Simply input as an argument the amount of cash available to invest (in USD) when running the script in the terminal. 
 
 Example:
+
 python nasdaq.py 224
 
 With this command, the outputted CSV file will distribute $224 between the 100 component stocks.
